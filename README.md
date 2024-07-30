@@ -1,1 +1,1 @@
-# Using-ODE-s-to-Simulate-Time-Series-Modeling
+# Using ODEs to Simulate Time Series-Modeling
